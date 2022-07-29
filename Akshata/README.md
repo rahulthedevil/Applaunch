@@ -1,3 +1,3 @@
-# NodeJs-Security-by-Akshata
+# By-Akshata
 
-Initiative taken & Presentation given on 29th July 2022
+Initiatives taken & Presentations
